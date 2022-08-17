@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-         \This is business</code>
+        <Header title="This is nextjs" />
+       <p className="description">
+         This is business
         </p>
       </main>
 
